@@ -18,7 +18,6 @@ Now, they are more prepared for the upcoming year and are able to forecast perio
 
 They can also offer a better customer experience since they are more prepared.
 
-
 **Insights and analysis**
 <img width="832" height="520" alt="Bubble monthly sales" src="https://github.com/user-attachments/assets/53c29f53-5682-4c55-bc46-865b8713d23a" />
 
@@ -28,3 +27,4 @@ They can also offer a better customer experience since they are more prepared.
 **Suggestions**
 1. Recruit more staff and stock up on inventory in October
 2. Keep staff and inventory low during the months of June-September
+
